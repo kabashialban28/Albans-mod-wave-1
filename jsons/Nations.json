@@ -509,5 +509,118 @@
         "Temple Prime","Sarajevo","New Cairo","Nod City",
         "Temple Alpha","Temple Beta","Red Zone One",
         "Tiberium Point","Kane's Rest","Black Hand"]
-}	
+},
+{
+    "name": "Hyperborea",
+    "leaderName": "Velimir",
+    "adjective": ["Hyperborean"],
+    "startBias": ["Tundra","Forest"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "The ancient gods call once more.",
+    "startIntroPart2": "Hyperborea shall reclaim the north.",
+
+    "declaringWar": "The old spirits march with us.",
+    "attacked": "You trespass upon sacred ground.",
+    "defeated": "The snows remember.",
+    "introduction": "I am Velimir, ruler of Hyperborea.",
+
+    "neutralHello": "The winds speak of change.",
+    "hateHello": "The spirits reject you.",
+    "tradeRequest": "A fair exchange.",
+    "denounced": "You have abandoned tradition.",
+    "declaringFriendship": "The gods smile upon this pact.",
+
+    "outerColor": [255,255,255],
+    "innerColor": [40,40,40],
+
+    "unique": "HONOR",
+
+    "cities": [
+        "Aryanovo","Svarograd","Perunsk","Rodina",
+        "Belovod","Hyperborea","Svarog's Hold",
+        "Velesgrad","Northwatch","White Forest"]
+},
+{
+    "name": "Gaul Ur",
+    "leaderName": "Marc 'Saint-Loup' Augier",
+    "adjective": ["Gaulish"],
+    "startBias": ["Forest"],
+    "preferredVictoryType": "Cultural",
+
+    "startIntroPart1": "A new Gaul shall arise from the ruins of modernity.",
+    "startIntroPart2": "The spirit of Europe endures.",
+
+    "declaringWar": "History demands action.",
+    "attacked": "You strike against a civilization reborn.",
+    "defeated": "Ideas cannot be conquered.",
+    "introduction": "I am Saint-Loup, herald of Gaul Ur.",
+
+    "neutralHello": "Welcome.",
+    "hateHello": "You embody decline.",
+    "tradeRequest": "Let us exchange what we each require.",
+    "denounced": "Your civilization has lost its way.",
+    "declaringFriendship": "May our peoples prosper together.",
+
+    "outerColor": [30,60,120],
+    "innerColor": [255,215,0],
+
+    "unique": "AESTHETICS",
+
+    "cities": [
+        "Lutetia","Lugdunum","Massilia","Avaricum",
+        "Tolosa","Nemausus","Alesia","Bibracte",
+		"Narbo","Rotomagus"]
+},
+
+{
+    "name": "Mushroom Kingdom",
+    "leaderName": "Mario",
+    "adjective": ["Mushroom"],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Cultural",
+
+    "startIntroPart1": "The era of royal dependency has ended.",
+    "startIntroPart2": "Under Mario's leadership, the Mushroom Kingdom stands united and self-reliant.",
+
+    "declaringWar": "Here we go! You've left us no choice.",
+    "attacked": "Mamma mia! You'll answer for that.",
+    "defeated": "The Kingdom may fall, but its spirit won't.",
+    "introduction": "I'm Mario! The people of the Mushroom Kingdom have entrusted me with their future.",
+
+    "neutralHello": "Welcome to the Mushroom Kingdom!",
+    "hateHello": "You're causing a lot of trouble.",
+
+    "tradeRequest": "How about a deal that helps us both?",
+    "denounced": "Your actions threaten peace throughout the Kingdom.",
+    "declaringFriendship": "Together, we can accomplish great things!",
+
+    "outerColor": [220, 0, 0],
+    "innerColor": [255, 255, 255],
+
+    "unique": "TRADITION",
+
+    "cities": [
+        "Toad Town",
+        "New Donk City",
+        "Mushroom City",
+        "Rogueport",
+        "Sarasaland",
+        "Beanbean Castle",
+        "Petalburg",
+        "Star Hill",
+        "Yoshi Valley",
+        "Lavalava Island",
+        "Koopa Village",
+        "Dry Dry Outpost",
+        "Shiver City",
+        "Flower Fields",
+        "Glitzville",
+        "Tostarena",
+        "Fossil Falls",
+        "Steam Gardens",
+        "Seaside Kingdom",
+        "Bowser's Border"]
+}
 ]
+
