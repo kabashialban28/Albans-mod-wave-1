@@ -417,5 +417,97 @@
         "Pixel Park",
         "Laugh Track",
         "Episode End"]
-		}
+		},
+{
+    "name": "Fegelreich",
+    "leaderName": "Hermann Fegelein",
+    "adjective": ["Fegelreich"],
+    "startBias": ["Plains"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "Belgium and France stand united under a single crown.",
+    "startIntroPart2": "The Fegelreich marches forward through opportunism and ambition.",
+
+    "declaringWar": "History favors the bold.",
+    "attacked": "A regrettable decision on your part.",
+    "defeated": "The union fractures, but the dream survives.",
+    "introduction": "I am Fegelein, sovereign of the Fegelreich.",
+
+    "neutralHello": "What brings you before the crown?",
+    "hateHello": "You test my patience.",
+    "tradeRequest": "Let us profit together.",
+    "denounced": "You are an obstacle to destiny.",
+    "declaringFriendship": "Our interests align.",
+
+    "outerColor": [20,20,20],
+    "innerColor": [255,215,0],
+
+    "unique": "COMMERCE",
+
+    "cities": [
+        "Brussels","Paris","Lyon","Antwerp","Marseille",
+        "Ghent","Lille","Namur","Dijon","Bordeaux"]
+},
+	```json
+{
+    "name": "Gedanum",
+    "leaderName": "Gustaw Orlicz-Dreszer",
+    "adjective": ["Gedanian"],
+    "startBias": ["Coast"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "From the Baltic rises a new Poland.",
+    "startIntroPart2": "Strength, discipline, and national revival guide the state.",
+
+    "declaringWar": "The nation marches.",
+    "attacked": "You shall learn the cost of aggression.",
+    "defeated": "The eagle shall rise again.",
+    "introduction": "I am Gustaw Orlicz-Dreszer, protector of Gedanum.",
+
+    "neutralHello": "Greetings.",
+    "hateHello": "You are unwelcome here.",
+    "tradeRequest": "A practical arrangement.",
+    "denounced": "Your actions disgrace your nation.",
+    "declaringFriendship": "Together we may prosper.",
+
+    "outerColor": [220,220,220],
+    "innerColor": [200,0,0],
+
+    "unique": "HONOR",
+
+    "cities": [
+        "Gedanum","Warsaw","Gdynia","Krakow","Poznan",
+        "Lodz","Lublin","Torun","Bydgoszcz","Wilno"]
+		}, 
+{
+    "name": "Brotherhood of Nod",
+    "leaderName": "Kane",
+    "adjective": ["Nod"],
+    "startBias": ["Desert"],
+    "preferredVictoryType": "Scientific",
+
+    "startIntroPart1": "Peace through power.",
+    "startIntroPart2": "The Brotherhood shall inherit the future.",
+
+    "declaringWar": "The Brotherhood advances.",
+    "attacked": "You oppose destiny itself.",
+    "defeated": "Kane lives in death.",
+    "introduction": "I am Kane. Welcome to the Brotherhood.",
+
+    "neutralHello": "Peace through power.",
+    "hateHello": "You resist the inevitable.",
+    "tradeRequest": "The Brotherhood offers cooperation.",
+    "denounced": "You stand against humanity's future.",
+    "declaringFriendship": "You have earned our trust.",
+
+    "outerColor": [0,0,0],
+    "innerColor": [255,0,0],
+
+    "unique": "RATIONALISM",
+
+    "cities": [
+        "Temple Prime","Sarajevo","New Cairo","Nod City",
+        "Temple Alpha","Temple Beta","Red Zone One",
+        "Tiberium Point","Kane's Rest","Black Hand"]
+}	
 ]
