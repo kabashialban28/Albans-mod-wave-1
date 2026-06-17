@@ -266,5 +266,65 @@
         "Bogmouth",
         "Council's Rest",
         "Last Tide"]
+},
+{
+    "name": "Patriot Front",
+    "leaderName": "Thomas Rousseau",
+    "adjective": ["Patriot"],
+    "startBias": ["Plains"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "The old republic has collapsed into chaos and division.",
+    "startIntroPart2": "From New England, the Patriot Front marches to forge a new America.",
+
+    "declaringWar": "The time for words has passed. America will be reclaimed.",
+    "attacked": "You strike against the future of this nation.",
+    "defeated": "A setback, nothing more. Others will carry the torch forward.",
+    "introduction": "I am Thomas Rousseau. The age of weakness is over.",
+
+    "neutralHello": "State your intentions.",
+
+    "hateHello": "You stand in the way of America's rebirth.",
+
+    "tradeRequest": "Even rivals may profit from cooperation.",
+    "denounced": "Your government represents everything wrong with the old order.",
+    "declaringFriendship": "Our nations may yet find common cause.",
+
+    "outerColor": [25, 40, 90],
+    "innerColor": [230, 230, 230],
+
+    "unique": "HONOR",
+
+    "cities": [
+        "Hartford",
+        "New Haven",
+        "Bridgeport",
+        "Springfield",
+        "Worcester",
+        "Providence",
+        "Lowell",
+        "Manchester",
+        "Portland",
+        "Concord",
+        "New Bedford",
+        "Fall River",
+        "Brockton",
+        "Nashua",
+        "Plymouth",
+        "Salem",
+        "Augusta",
+        "Bangor",
+        "Burlington",
+        "New London",
+        "Patriot City",
+        "Liberty Point",
+        "Union Harbor",
+        "Founders' Rest",
+        "Lexington",
+        "Concord Heights",
+        "New America",
+        "Victory Crossing",
+        "Columbia",
+        "Frontier"]
 }
 ]
