@@ -96,5 +96,65 @@
         "Murmansk",
         "Nizhny Novgorod",
         "Kostroma"]
-	}
+	},
+{
+    "name": "One State",
+    "leaderName": "OP-01 (Aleksei Gastev)",
+    "adjective": ["Statist"],
+    "startBias": ["Plains", "Hill"],
+    "preferredVictoryType": "Scientific",
+
+    "startIntroPart1": "Individuality is inefficiency. Efficiency is strength.",
+    "startIntroPart2": "The Machine advances. Integrate all things into the perfect system.",
+
+    "declaringWar": "Noncompliant elements have been identified. Commencing liquidation.",
+    "attacked": "Deviation detected. Corrective measures are being implemented.",
+    "defeated": "The Machine ceases operation. Production has fallen to zero.",
+    "introduction": "I am OP-01. Human error shall be eliminated. State your purpose.",
+
+    "neutralHello": "Productivity levels acceptable.",
+
+    "hateHello": "Your inefficiency has become intolerable.",
+
+    "tradeRequest": "Mutual optimization through exchange is proposed.",
+    "denounced": "You are a malfunction within the greater system.",
+    "declaringFriendship": "Cooperation increases output. Friendship accepted.",
+
+    "outerColor": [90, 90, 90],
+    "innerColor": [220, 30, 30],
+
+    "unique": "ORDER",
+
+    "cities": [
+        "Magnitogorsk",
+        "Machine Complex 01",
+        "Steel Directorate",
+        "Assembly Node",
+        "Production Sector A",
+        "Production Sector B",
+        "Integration Hub",
+        "Central Forge",
+        "Automation District",
+        "Efficiency Center",
+        "Industrial Zone 7",
+        "Labor Complex",
+        "Research Node",
+        "Refinery District",
+        "Tractorgrad",
+        "Synthetica",
+        "Mechanograd",
+        "Progress Station",
+        "Iron Collective",
+        "Output Terminal",
+        "Foundry Alpha",
+        "Foundry Beta",
+        "Factory City",
+        "Command Sector",
+        "Unified Works",
+        "The Machine",
+        "Directive Point",
+        "Optimization Hub",
+        "Central Processor",
+        "Final Assembly"]
+}
 ]
