@@ -36,5 +36,65 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	},
+		{
+    "name": "Holy Russian Empire",
+    "leaderName": "Tsar Alexei",
+    "adjective": ["Russian"],
+    "startBias": ["Tundra", "Forest"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "Russia has suffered decades of humiliation, division, and godlessness.",
+    "startIntroPart2": "Restore the Empire, defend the Orthodox faith, and reunite the Russian people beneath the rightful Tsar.",
+
+    "declaringWar": "The enemies of Holy Russia shall be swept aside.",
+    "attacked": "You dare raise your hand against God's anointed ruler?",
+    "defeated": "Empires may fall, but Holy Russia shall rise again.",
+    "introduction": "I am Tsar Alexei, sovereign of the Holy Russian Empire. Know your place before the throne of Russia.",
+
+    "neutralHello": "May God watch over your nation.",
+
+    "hateHello": "Your presence offends both throne and altar.",
+
+    "tradeRequest": "Let this agreement serve the interests of our peoples.",
+    "denounced": "You stand opposed to Russia's sacred destiny.",
+    "declaringFriendship": "May our nations stand together under God's grace.",
+
+    "outerColor": [255, 170, 0],
+    "innerColor": [0, 0, 0],
+
+    "unique": "HONOR",
+
+    "cities": [
+        "Moscow",
+        "Saint Petersburg",
+        "Novgorod",
+        "Kazan",
+        "Yekaterinburg",
+        "Omsk",
+        "Tomsk",
+        "Novosibirsk",
+        "Samara",
+        "Perm",
+        "Chelyabinsk",
+        "Vologda",
+        "Arkhangelsk",
+        "Vladimir",
+        "Suzdal",
+        "Rostov",
+        "Pskov",
+        "Tula",
+        "Smolensk",
+        "Kursk",
+        "Voronezh",
+        "Astrakhan",
+        "Saratov",
+        "Tyumen",
+        "Irkutsk",
+        "Krasnoyarsk",
+        "Vladivostok",
+        "Murmansk",
+        "Nizhny Novgorod",
+        "Kostroma"]
 	}
 ]
