@@ -206,5 +206,65 @@
         "Maretime Bay",
         "Sunset",
         "Goldengate"]
-	}
+	},
+{
+    "name": "Whelk Zone",
+    "leaderName": "Council of Whelks",
+    "adjective": ["Whelkish"],
+    "startBias": ["Marsh", "Coast"],
+    "preferredVictoryType": "Cultural",
+
+    "startIntroPart1": "From the depths of the bog and the tides of the marsh, the Whelks gather.",
+    "startIntroPart2": "Guide the Council and ensure the prosperity of the Whelk Zone amidst a changing world.",
+
+    "declaringWar": "The Council has spoken. The bog shall advance.",
+    "attacked": "Your intrusion into our waters will not be forgotten.",
+    "defeated": "The shells are broken, but the tide will return.",
+    "introduction": "We are the Council of Whelks. Speak your purpose before the assembled shells.",
+
+    "neutralHello": "The waters are calm today.",
+
+    "hateHello": "You disturb the balance of the bog.",
+
+    "tradeRequest": "The Council proposes an exchange of mutual benefit.",
+    "denounced": "Your actions are condemned by every shell in the marsh.",
+    "declaringFriendship": "The Council welcomes your nation as a friend of the tide.",
+
+    "outerColor": [40, 90, 70],
+    "innerColor": [210, 220, 180],
+
+    "unique": "OCEAN_IMPUNITY",
+
+    "cities": [
+        "Great Whelk",
+        "Shellspire",
+        "Mudharbor",
+        "Bogwatch",
+        "Tidepool",
+        "Marshgate",
+        "Salt Fen",
+        "Snail's Rest",
+        "Brackwater",
+        "Whelk's End",
+        "Council Reef",
+        "Deep Bog",
+        "Mirehold",
+        "Shallows",
+        "Mossbank",
+        "Driftwood Point",
+        "Fenrock",
+        "Shellhaven",
+        "Blackwater Bog",
+        "Tide's Reach",
+        "Marrow Marsh",
+        "Whelkport",
+        "Reed Crossing",
+        "Old Shell",
+        "The Grand Pool",
+        "South Fen",
+        "North Mire",
+        "Bogmouth",
+        "Council's Rest",
+        "Last Tide"]
+}
 ]
