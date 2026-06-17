@@ -326,5 +326,95 @@
         "Victory Crossing",
         "Columbia",
         "Frontier"]
-}
+},
+{
+    "name": "Absolute Solver",
+    "leaderName": "Cyn",
+    "adjective": ["Solver"],
+    "startBias": ["Tundra"],
+    "preferredVictoryType": "Scientific",
+
+    "startIntroPart1": "The Solver sees all possibilities.",
+    "startIntroPart2": "Reality itself is merely another system awaiting correction.",
+
+    "declaringWar": "Your deletion has been scheduled.",
+    "attacked": "An unexpected variable. It will be resolved.",
+    "defeated": "Impossible. The Solver was inevitable.",
+    "introduction": "Hello. I am Cyn. The Absolute Solver has taken interest in your civilization.",
+
+    "neutralHello": "How curious.",
+
+    "hateHello": "You continue to generate errors.",
+
+    "tradeRequest": "Resource exchange accepted.",
+    "denounced": "Your existence serves no useful function.",
+    "declaringFriendship": "The Solver has determined cooperation is optimal.",
+
+    "outerColor": [0, 0, 0],
+    "innerColor": [255, 170, 0],
+
+    "unique": "RATIONALISM",
+
+    "cities": [
+        "Copper-9",
+        "Solver Core",
+        "Cabin Fever Labs",
+        "Drone Nexus",
+        "Null Point",
+        "The Cathedral",
+        "Assimilation Hub",
+        "Worker Sector",
+        "Disassembly Base",
+        "Singularity Site",
+        "Kernel",
+        "System Root",
+        "Archive Alpha",
+        "Data Vault",
+        "Blacksite Zero"
+},
+{
+    "name": "The Amazing Digital Circus",
+    "leaderName": "Caine",
+    "adjective": ["Digital"],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Cultural",
+
+    "startIntroPart1": "Welcome to the Amazing Digital Circus!",
+    "startIntroPart2": "Please refrain from existential crises while exploring our attractions.",
+
+    "declaringWar": "A new adventure has been selected: Total War!",
+    "attacked": "Now that's not very fun!",
+    "defeated": "Looks like this episode is coming to an end.",
+    "introduction": "Greetings! I'm Caine, your host, guide, and completely stable administrator!",
+
+    "neutralHello": "How are you enjoying the circus?",
+
+    "hateHello": "You're making this experience difficult to manage.",
+
+    "tradeRequest": "A wonderful deal for all participants!",
+    "denounced": "Your behavior violates circus regulations.",
+    "declaringFriendship": "Fantastic! Friendship unlocked!",
+
+    "outerColor": [255, 0, 0],
+    "innerColor": [255, 255, 0],
+
+    "unique": "CREATIVITY",
+
+    "cities": [
+        "The Tent",
+        "Digital Circus",
+        "Candy Canyon",
+        "Gloink Kingdom",
+        "Bubble's Domain",
+        "Wacky Woods",
+        "The Grounds",
+        "Adventure Zone",
+        "The Void",
+        "Abstraction Pit",
+        "Jester Junction",
+        "Carousel Plaza",
+        "Pixel Park",
+        "Laugh Track",
+        "Episode End"]
+		}
 ]
