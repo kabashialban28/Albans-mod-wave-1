@@ -784,6 +784,94 @@
         "Groxia","Core Nexus","Machine World","Cyber Bastion","Central Core",
         "Node Alpha","Node Beta","Node Gamma","War Factory","Drone Complex",
         "Black Citadel","Assimilation Hub","Sector Prime","Core Fortress","Termination Point"]
+},
+{
+    "name": "Luigi Crime Syndicate",
+    "leaderName": "Luigi",
+    "adjective": ["Luigian"],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Economic",
+
+    "startIntroPart1": "While Mario governed, Luigi organized.",
+    "startIntroPart2": "Now the Syndicate's influence extends into every city and every deal.",
+
+    "declaringWar": "Nothing personal. Just business.",
+    "attacked": "You picked the wrong family to cross.",
+    "defeated": "The books are closed... for now.",
+    "introduction": "I'm Luigi. Let's discuss opportunities.",
+
+    "neutralHello": "Pleasure doing business with you.",
+    "hateHello": "You've become bad for profits.",
+
+    "tradeRequest": "An offer you shouldn't refuse.",
+    "denounced": "Your debts have come due.",
+    "declaringFriendship": "Partners are worth more than enemies.",
+
+    "outerColor": [0,150,0],
+    "innerColor": [255,255,255],
+
+    "unique": "COMMERCE",
+
+    "cities": [
+        "Luigiville",
+        "Green Harbor",
+        "Caporegime City",
+        "Mushroom Heights",
+        "Family Estate",
+        "Coin District",
+        "Emerald Bay",
+        "Little Sarasaland",
+        "Shadow Port",
+        "New Luigiopolis"]
+},
+{
+    "name": "Koopa Kingdom",
+    "leaderName": "King Bowser & Queen Peach",
+    "adjective": ["Koopan"],
+    "startBias": ["Hill", "Volcano"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "The age of kidnappings and misunderstandings has ended.",
+    "startIntroPart2": "United under Bowser and Peach, the Koopa Kingdom stands stronger than ever.",
+
+    "declaringWar": "Our patience has run out. The Kingdom advances.",
+    "attacked": "You dare threaten our family and our realm?",
+    "defeated": "Even kings and queens must sometimes yield to fate.",
+    "introduction": "We are Bowser and Peach, sovereigns of the Koopa Kingdom. State your business.",
+
+    "neutralHello": "Welcome to our kingdom.",
+    "hateHello": "You are testing the limits of our hospitality.",
+
+    "tradeRequest": "A prosperous agreement benefits us both.",
+    "denounced": "Your conduct is beneath the standards of civilized rulers.",
+    "declaringFriendship": "Let our realms stand together in peace.",
+
+    "outerColor": [255, 140, 0],
+    "innerColor": [34, 139, 34],
+
+    "unique": "HONOR",
+
+    "cities": [
+        "Bowser Castle",
+        "Koopa Keep",
+        "Darkland",
+        "Lava Fortress",
+        "Dry Bones Crossing",
+        "Boom Boom Bay",
+        "Magikoopa Spire",
+        "Koopa Port",
+        "Hammerhold",
+        "Shell City",
+        "Mortonburg",
+        "Lemmy's Landing",
+        "Roy's Ridge",
+        "Wendy's Court",
+        "Iggy's Workshop",
+        "Ludwigstadt",
+        "Peach Gardens",
+        "Royal Shell Palace",
+        "Twin Crowns",
+        "New Koopatropolis"]
 }
 ]
 
