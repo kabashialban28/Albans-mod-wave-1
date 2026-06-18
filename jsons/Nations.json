@@ -790,7 +790,7 @@
     "leaderName": "Luigi",
     "adjective": ["Luigian"],
     "startBias": ["Grassland"],
-    "preferredVictoryType": "Economic",
+    "preferredVictoryType": "Dominaton",
 
     "startIntroPart1": "While Mario governed, Luigi organized.",
     "startIntroPart2": "Now the Syndicate's influence extends into every city and every deal.",
