@@ -872,6 +872,171 @@
         "Royal Shell Palace",
         "Twin Crowns",
         "New Koopatropolis"]
+},
+	
+{
+    "name": "Moon Cult",
+    "leaderName": "High Lunar Prophet",
+    "adjective": ["Lunar"],
+    "startBias": ["Tundra", "Hill"],
+    "preferredVictoryType": "Cultural",
+
+    "startIntroPart1": "The Moon watches over all things.",
+    "startIntroPart2": "Guide the faithful and prepare the world for the coming ascension.",
+
+    "declaringWar": "The Moon has rendered its judgment.",
+    "attacked": "The faithful shall endure.",
+    "defeated": "The Moon remains, even as we fade.",
+    "introduction": "The silver light of the Moon shines upon you.",
+
+    "neutralHello": "The night is peaceful.",
+    "hateHello": "The Moon sees your transgressions.",
+
+    "tradeRequest": "Let our peoples prosper beneath the same sky.",
+    "denounced": "You have strayed from the sacred path.",
+    "declaringFriendship": "May our destinies be illuminated together.",
+
+    "outerColor": [220,220,255],
+    "innerColor": [70,70,120],
+
+    "unique": "PIETY",
+
+    "cities": [
+        "Moonspire","Lunaris","Silver Crater","Nightfall","Watcher Peak",
+        "Moonwatch","Crescent Bay","Starlight","White Summit","Astral Gate",
+        "The Observatory","Moonshadow","Northern Light","Selene","The Great Dome"]
+},
+
+{
+    "name": "Monarcho-Socialist Hyrule",
+    "leaderName": "Princess Zelda",
+    "adjective": ["Hylian"],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Cultural",
+
+    "startIntroPart1": "The Crown serves the people, and the people uphold the Crown.",
+    "startIntroPart2": "Build a just kingdom where prosperity is shared by all.",
+
+    "declaringWar": "The kingdom must be defended.",
+    "attacked": "You threaten the peace of Hyrule.",
+    "defeated": "Though the kingdom falls, courage shall rise again.",
+    "introduction": "I am Zelda, sovereign servant of Hyrule.",
+
+    "neutralHello": "May wisdom guide your decisions.",
+    "hateHello": "Your actions endanger the realm.",
+
+    "tradeRequest": "Let us build prosperity together.",
+    "denounced": "You have betrayed the ideals of civilization.",
+    "declaringFriendship": "May our peoples stand united.",
+
+    "outerColor": [255,215,0],
+    "innerColor": [0,120,255],
+
+    "unique": "TRADITION",
+
+    "cities": [
+        "Hyrule Castle","Kakariko","Hateno","Rito Village","Gerudo Town",
+        "Zora's Domain","Lurelin","Tarrey Town","Castle Town","Akkala",
+        "Lanayru","Ordon","Skyloft","Korok Forest","Lookout Landing"]
+},
+	
+{
+    "name": "Atomic Wafer Division",
+    "leaderName": "Brandon Russell",
+    "adjective": ["Wafer"],
+    "startBias": ["Plains"],
+    "preferredVictoryType": "Scientific",
+
+    "startIntroPart1": "Innovation, enterprise, and wafer-based excellence shall guide humanity.",
+    "startIntroPart2": "Build a future powered by technology, markets, and snacks.",
+
+    "declaringWar": "Hostile market conditions have been detected.",
+    "attacked": "This is terrible for investor confidence.",
+    "defeated": "The quarterly report was disappointing.",
+    "introduction": "Welcome to the Atomic Wafer Division. Would you like to discuss innovation?",
+
+    "neutralHello": "Business is proceeding normally.",
+    "hateHello": "You have become a liability.",
+
+    "tradeRequest": "Our analysts recommend this agreement.",
+    "denounced": "Your economic policies are irrational.",
+    "declaringFriendship": "A strategic partnership has been approved.",
+
+    "outerColor": [220,180,90],
+    "innerColor": [255,245,200],
+
+    "unique": "COMMERCE",
+
+    "cities": [
+        "Tampa bay Area","Wafergrad","Crunchopolis","Vanilla Prime","Chocolate Junction","Cookiehold",
+        "Biscuit Bay","Market City","Investor Point","Research Park","Golden Wafer",
+        "Crunch Peak","Tech Valley","New Biscuit","Waferholm","Innovation Center"]
+},
+
+{
+    "name": "Power Rangers",
+    "leaderName": "Zordon",
+    "adjective": ["Ranger"],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Cultural",
+
+    "startIntroPart1": "When evil threatens the world, heroes rise to meet it.",
+    "startIntroPart2": "Unite courage, teamwork, and determination to protect the innocent.",
+
+    "declaringWar": "Rangers, it's morphin' time!",
+    "attacked": "Evil never rests, does it?",
+    "defeated": "The battle is lost, but the fight for justice continues.",
+    "introduction": "I am Zordon. Welcome, defenders of peace.",
+
+    "neutralHello": "May your actions serve the greater good.",
+    "hateHello": "You have chosen a dangerous path.",
+
+    "tradeRequest": "Cooperation strengthens everyone.",
+    "denounced": "Your actions threaten peace.",
+    "declaringFriendship": "Together, we are stronger.",
+
+    "outerColor": [255,0,0],
+    "innerColor": [255,255,255],
+
+    "unique": "HONOR",
+
+    "cities": [
+        "Angel Grove","Command Center","Ranger Bay","Megazord Point","Morphin City",
+        "Corinth","Silver Hills","Mariner Bay","Summer Cove","Harwood County",
+        "Terra Venture","Reefside","Briarwood","New Tech City","Grid Battleforce"]
+},
+
+{
+    "name": "Tomsk",
+    "leaderName": "Pasternak",
+    "adjective": ["Tomskian"],
+    "startBias": ["Forest"],
+    "preferredVictoryType": "Scientific",
+
+    "startIntroPart1": "Ideas are stronger than tyranny.",
+    "startIntroPart2": "Build a republic of poets, scientists, and visionaries in the heart of Siberia.",
+
+    "declaringWar": "It is regrettable that reason has failed.",
+    "attacked": "You attack not only us, but the future itself.",
+    "defeated": "The dream survives, even in defeat.",
+    "introduction": "I am Pasternak. Let us discuss the future of Russia.",
+
+    "neutralHello": "Welcome to Tomsk.",
+    "hateHello": "Your conduct is disappointing.",
+
+    "tradeRequest": "Knowledge and prosperity should be shared.",
+    "denounced": "You have abandoned reason and decency.",
+    "declaringFriendship": "May our nations learn from one another.",
+
+    "outerColor": [80,80,160],
+    "innerColor": [255,255,255],
+
+    "unique": "RATIONALISM",
+
+    "cities": [
+        "Tomsk","Seversk","Akademgorodok","Poets' Quarter","New Siberia",
+        "University City","Science Park","Novaya Nadezhda","Kedrovy","Taiga Point",
+        "Northern Academy","Obsk","Futuregrad","Research Station","Republic Square"]
 }
 ]
 
