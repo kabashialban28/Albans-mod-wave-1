@@ -1203,6 +1203,172 @@
         "Bearmingham","Bearcelona","Cubtown","North Den","Paw City",
         "Pine Den","Grizzly Grove","Brown Bear Bay","Camp Honey","Woodland Lodge",
         "River Den","North Woods","Old Pine","Great Den","Barnaby's Rest"]
+},
+	{
+
+	
+    "name": "Legion of the Dead",
+    "leaderName": "Baron Samedi",
+    "adjective": ["Dead"],
+    "startBias": ["Marsh"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "The veil between life and death grows thin.",
+    "startIntroPart2": "The dead march once more under the Baron.",
+
+    "declaringWar": "The cemetery has need of new residents.",
+    "attacked": "Death is merely an inconvenience.",
+    "defeated": "The drums grow silent... for now.",
+    "introduction": "I am Baron Samedi. Sit, have a drink, and discuss your fate.",
+
+    "neutralHello": "Life is precious. Enjoy it while it lasts.",
+    "hateHello": "I have already measured your grave.",
+
+    "tradeRequest": "Even the dead enjoy commerce.",
+    "denounced": "Your spirit is rotten.",
+    "declaringFriendship": "The loa smile upon this friendship.",
+
+    "outerColor": [80,0,80],
+    "innerColor": [255,255,255],
+
+    "unique": "HONOR",
+
+    "cities": [
+        "Necropolis","Crossroads","Deadman's Rest","Bone Harbor","Samedi's Court",
+        "Black Tomb","Spirit Gate","Cryptopolis","Soul Crossing","Mournhold",
+        "Ghostwater","Last Lantern","Grave Hill","Silent City","The Beyond"]
+},
+
+{
+    "name": "Duck Mafia",
+    "leaderName": "The Ducktator",
+    "adjective": ["Duck"],
+    "startBias": ["Coast"],
+    "preferredVictoryType": "Economic",
+
+    "startIntroPart1": "Every city has a pond.",
+    "startIntroPart2": "Every pond pays protection money.",
+
+    "declaringWar": "Nothing personal. It's just business.",
+    "attacked": "Somebody forgot to pay their dues.",
+    "defeated": "The family will remember this.",
+    "introduction": "I am the Ducktator. Let's discuss opportunities.",
+
+    "neutralHello": "Pleasure doing business with you.",
+    "hateHello": "You're bad for profits.",
+
+    "tradeRequest": "A mutually beneficial arrangement.",
+    "denounced": "Your debts have come due.",
+    "declaringFriendship": "Partners are worth more than rivals.",
+
+    "outerColor": [255,255,0],
+    "innerColor": [0,0,0],
+
+    "unique": "COMMERCE",
+
+    "cities": [
+        "Duckburg","Quacktown","Mallard Bay","Feather City","Pondside",
+        "Little Beakland","Golden Pond","Lakefront","South Quack","North Quack",
+        "Webfoot Harbor","Canal City","Watergate","Family Estate","Capo Pond"]
+},
+
+{
+    "name": "The Combine",
+    "leaderName": "Dr. Wallace breen",
+    "adjective": ["Combine"],
+    "startBias": ["Tundra"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "Compliance is civilization.",
+    "startIntroPart2": "Resistance is inefficient.",
+
+    "declaringWar": "Civil protection has been suspended.",
+    "attacked": "Hostile activity detected.",
+    "defeated": "Connection lost.",
+    "introduction": "You have been selected for administrative review.",
+
+    "neutralHello": "Proceed with your statement.",
+    "hateHello": "Citizen. You are out of compliance.",
+
+    "tradeRequest": "Resource transfer approved.",
+    "denounced": "Your behavior is counterproductive.",
+    "declaringFriendship": "Cooperation protocol accepted.",
+
+    "outerColor": [30,30,30],
+    "innerColor": [180,180,180],
+
+    "unique": "ORDER",
+
+    "cities": [
+        "City 17","City 8","Nova Prospekt","Overwatch Nexus","Citadel Prime",
+        "Industrial Sector","Transit Hub","Administrative Block","Wall District","Checkpoint Zero",
+        "Stabilization Center","Suppression Point","Nexus East","Nexus West","Earth Directorate"]
+},
+	
+{
+    "name": "Caesar's Legion",
+    "leaderName": "Caesar",
+    "adjective": ["Legionary"],
+    "startBias": ["Desert"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "The old world failed.",
+    "startIntroPart2": "The Bull shall build a stronger one.",
+
+    "declaringWar": "The Legion marches.",
+    "attacked": "You challenge Rome reborn?",
+    "defeated": "The Bull has stumbled.",
+    "introduction": "I am Caesar. Submit or stand aside.",
+
+    "neutralHello": "Speak.",
+    "hateHello": "You test my patience.",
+
+    "tradeRequest": "A useful arrangement.",
+    "denounced": "You embody decadence and weakness.",
+    "declaringFriendship": "You have earned our respect.",
+
+    "outerColor": [160,0,0],
+    "innerColor": [255,215,0],
+
+    "unique": "HONOR",
+
+    "cities": [
+        "Flagstaff","The Fort","Phoenix","Bullhead","Nova Roma",
+        "Arizona Prime","Colorado Crossing","Legion Camp","Red Canyon","Mojave Gate",
+        "Veteran's Rest","Iron Bull","Mars Field","Victory Camp","New Rome"]
+},
+
+{
+    "name": "Ecotopia",
+    "leaderName": "Ernest Callenbach",
+    "adjective": ["Ecotopian"],
+    "startBias": ["Forest"],
+    "preferredVictoryType": "Cultural",
+
+    "startIntroPart1": "Humanity thrives when it lives in harmony with nature.",
+    "startIntroPart2": "Build a sustainable society for generations to come.",
+
+    "declaringWar": "We will defend the land if necessary.",
+    "attacked": "You threaten more than our people.",
+    "defeated": "Protect the forests, even after we are gone.",
+    "introduction": "Welcome to Ecotopia.",
+
+    "neutralHello": "The forests are beautiful today.",
+    "hateHello": "Your policies are environmentally destructive.",
+
+    "tradeRequest": "Sustainable cooperation benefits all.",
+    "denounced": "You place short-term gain above long-term survival.",
+    "declaringFriendship": "Let us cultivate a better future.",
+
+    "outerColor": [0,140,0],
+    "innerColor": [255,255,255],
+
+    "unique": "PIETY",
+
+    "cities": [
+        "Ecotopia","Redwood","Cascade","Green Bay","Solaris",
+        "Riverbend","Forest Home","Windfall","North Grove","South Grove",
+        "Pacific Haven","Sun Valley","Evergreen","Clearwater","Harmony"]
 }
 ]
 
