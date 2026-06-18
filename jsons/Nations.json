@@ -1037,6 +1037,172 @@
         "Tomsk","Seversk","Akademgorodok","Poets' Quarter","New Siberia",
         "University City","Science Park","Novaya Nadezhda","Kedrovy","Taiga Point",
         "Northern Academy","Obsk","Futuregrad","Research Station","Republic Square"]
+},
+
+{
+    "name": "Novosibirsk",
+    "leaderName": "Shukshin",
+    "adjective": ["Novosibirskian"],
+    "startBias": ["Plains", "Forest"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "Russia must be rebuilt through strength and determination.",
+    "startIntroPart2": "The future belongs to those willing to fight for it.",
+
+    "declaringWar": "History favors the resolute.",
+    "attacked": "You have chosen a dangerous course.",
+    "defeated": "Others will continue the struggle.",
+    "introduction": "I am Shukshin. Let us discuss the future of Russia.",
+
+    "neutralHello": "Greetings.",
+    "hateHello": "You waste my time.",
+
+    "tradeRequest": "A practical arrangement.",
+    "denounced": "Your actions threaten stability.",
+    "declaringFriendship": "Mutual respect is the foundation of cooperation.",
+
+    "outerColor": [0,90,180],
+    "innerColor": [255,255,255],
+
+    "unique": "ORDER",
+
+    "cities": [
+        "Novosibirsk","Berdsk","Ob","Barnaul","Biysk",
+        "Tomilovo","Krasny Yar","Northern Crossing","Industrial Zone 1","Steel City",
+        "South Bank","New Altai","Riverport","Frontier Town","Victory Square"]
+},
+
+{
+    "name": "Buryatia",
+    "leaderName": "Sablin",
+    "adjective": ["Buryatian"],
+    "startBias": ["Forest", "Tundra"],
+    "preferredVictoryType": "Cultural",
+
+    "startIntroPart1": "A better Russia is possible.",
+    "startIntroPart2": "Build a society founded upon justice, equality, and hope.",
+
+    "declaringWar": "We will defend our ideals.",
+    "attacked": "So much for peaceful cooperation.",
+    "defeated": "Do not let the dream die with us.",
+    "introduction": "I am Sablin. Together we can build a brighter future.",
+
+    "neutralHello": "Friendship is always welcome.",
+    "hateHello": "You betray the principles you claim to uphold.",
+
+    "tradeRequest": "Mutual aid benefits everyone.",
+    "denounced": "Your actions are unacceptable.",
+    "declaringFriendship": "Let us work together for a better tomorrow.",
+
+    "outerColor": [220,0,0],
+    "innerColor": [255,255,255],
+
+    "unique": "LIBERTY",
+
+    "cities": [
+        "Ulan-Ude","Kyakhta","Selenginsk","Baikal","Freedom Town",
+        "New Dawn","Hope Village","People's Harbor","Taiga Commune","Red Spring",
+        "Workers' Point","East Shore","Solidarity","Friendship","Future City"]
+},
+
+{
+    "name": "Pig Dictatorship",
+    "leaderName": "The Great Pig",
+    "adjective": ["Porcine"],
+    "startBias": ["Grassland"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "All animals are equal.",
+    "startIntroPart2": "Some animals are simply more equal than others.",
+
+    "declaringWar": "The farm requires additional living space.",
+    "attacked": "The pigs shall remember this outrage.",
+    "defeated": "Impossible! The statistics showed otherwise!",
+    "introduction": "I am the Great Pig, supreme leader of Mossy Bottom.",
+
+    "neutralHello": "Everything is proceeding according to plan.",
+    "hateHello": "You question my authority?",
+
+    "tradeRequest": "The farm proposes a mutually beneficial arrangement.",
+    "denounced": "You spread dangerous ideas.",
+    "declaringFriendship": "The farm values your cooperation.",
+
+    "outerColor": [255,180,180],
+    "innerColor": [120,0,0],
+
+    "unique": "HONOR",
+
+    "cities": [
+        "Mossy Bottom","Mudburg","Oinkgrad","Pigston","Truffle City",
+        "Hog Haven","Bacon Bay","Farm Central","Sty Station","Pigopolis",
+        "Golden Trough","Swineholm","North Pen","South Pen","The Big Barn"]
+},
+
+{
+    "name": "Pearese-Forestian Union",
+    "leaderName": "Frutius Maximus",
+    "adjective": ["Pearese"],
+    "startBias": ["Forest"],
+    "preferredVictoryType": "Cultural",
+
+    "startIntroPart1": "Fruit and forest stand united.",
+    "startIntroPart2": "Harmony with nature is the foundation of prosperity.",
+
+    "declaringWar": "You have endangered the orchards for the last time.",
+    "attacked": "The forests shall not fall quietly.",
+    "defeated": "The roots remain, even if the tree falls.",
+    "introduction": "I am Frutius Maximus, steward of the Union.",
+
+    "neutralHello": "Welcome among the trees.",
+    "hateHello": "Your axes grow tiresome.",
+
+    "tradeRequest": "A harvest shared is a harvest multiplied.",
+    "denounced": "You threaten the balance of nature.",
+    "declaringFriendship": "Let our peoples grow together.",
+
+    "outerColor": [0,180,0],
+    "innerColor": [255,220,0],
+
+    "unique": "TRADITION",
+
+    "cities": [
+        "Buenos Pearies","Forestia","Golden Orchard","Apple Reach","Greenheart",
+        "Maple Crossing","Oak Crown","Harvest Hill","Sun Orchard","Fruit Harbor",
+        "Woodland Rest","Grand Grove","North Orchard","South Orchard","The Great Tree"
+    ]
+},
+
+{
+    "name": "Bears",
+    "leaderName": "Barnaby Bear",
+    "adjective": ["Bearish"],
+    "startBias": ["Forest", "Tundra"],
+    "preferredVictoryType": "Cultural",
+
+    "startIntroPart1": "The forest belongs to those who respect it.",
+    "startIntroPart2": "Guide the bears toward a future of peace, honey, and occasional naps.",
+
+    "declaringWar": "You have wandered into the wrong forest.",
+    "attacked": "That was very rude.",
+    "defeated": "Perhaps it is time for hibernation.",
+    "introduction": "I am Barnaby Bear. Welcome to our woods.",
+
+    "neutralHello": "Would you care for some honey?",
+    "hateHello": "You are becoming a nuisance.",
+
+    "tradeRequest": "The bears enjoy fair trade.",
+    "denounced": "Your behavior is unbecoming.",
+    "declaringFriendship": "Friends are always welcome around the campfire.",
+
+    "outerColor": [130,80,40],
+    "innerColor": [255,230,180],
+
+    "unique": "TRADITION",
+
+    "cities": [
+        "Bearmingham","Bearcelona","Cubtown","North Den","Paw City",
+        "Pine Den","Grizzly Grove","Brown Bear Bay","Camp Honey","Woodland Lodge",
+        "River Den","North Woods","Old Pine","Great Den","Barnaby's Rest"]
 }
 ]
 
