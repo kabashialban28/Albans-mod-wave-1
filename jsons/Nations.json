@@ -620,6 +620,170 @@
         "Steam Gardens",
         "Seaside Kingdom",
         "Bowser's Border"]
+},
+
+{
+    "name": "Ant Empire",
+    "leaderName": "The Great Queen",
+    "adjective": ["Ant"],
+    "startBias": ["Forest"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "For countless generations, the colony has endured.",
+    "startIntroPart2": "Expand the hive, secure resources, and bring order to the surface world.",
+
+    "declaringWar": "The colony requires your territory.",
+    "attacked": "Intruders detected. Mobilizing soldiers.",
+    "defeated": "The Queen falls, but the swarm remembers.",
+    "introduction": "I am the Great Queen. All serve the colony.",
+
+    "neutralHello": "The workers are busy.",
+    "hateHello": "You disturb the hive.",
+
+    "tradeRequest": "An exchange of resources benefits both colonies.",
+    "denounced": "You threaten the natural order.",
+    "declaringFriendship": "The colony accepts your alliance.",
+
+    "outerColor": [120,40,20],
+    "innerColor": [255,220,180],
+
+    "unique": "HONOR",
+
+    "cities": ["Royal Nest","Great Hive","Worker Mound","Soldier's Rest","Eastern Colony",
+        "North Tunnel","Brood Chamber","Iron Mandible","Deep Nest","Harvest Hill",
+        "Forager's Reach","Queen's Court","Red Colony","Black Colony","Last Swarm"]
+},
+	
+{
+    "name": "Azura",
+    "leaderName": "Kenshiro",
+    "adjective": ["Azuran"],
+    "startBias": ["Desert"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "The wasteland is cruel, but hope survives.",
+    "startIntroPart2": "Protect the innocent and bring justice to the strong who prey upon the weak.",
+
+    "declaringWar": "You have already lost.",
+    "attacked": "Violence against the innocent will not be tolerated.",
+    "defeated": "Even a fallen star leaves light behind.",
+    "introduction": "I am Kenshiro. State your purpose.",
+
+    "neutralHello": "Peace is preferable to conflict.",
+    "hateHello": "Your actions bring suffering.",
+
+    "tradeRequest": "Our people may benefit from cooperation.",
+    "denounced": "Your cruelty cannot be ignored.",
+    "declaringFriendship": "Together we may protect the weak.",
+
+    "outerColor": [20,60,160],
+    "innerColor": [255,255,255],
+
+    "unique": "HONOR",
+
+    "cities": [
+        "Azura","Southern Cross","Last Oasis","Hope Village","New Eden",
+        "Star City","Blue Haven","Justice Point","Fist Rock","Mercy Springs",
+        "Frontier Camp","North Oasis","Wasteland Gate","Guardian's Hold","Final Sanctuary"]
+},
+
+{
+    "name": "Acornia",
+    "leaderName": "Giggles",
+    "adjective": ["Acornian"],
+    "startBias": ["Forest"],
+    "preferredVictoryType": "Cultural",
+
+    "startIntroPart1": "The forests of Acornia are cheerful and prosperous.",
+    "startIntroPart2": "Try not to think about the accidents.",
+
+    "declaringWar": "This is going to be less fun than I hoped.",
+    "attacked": "Why would anypony—I mean anybody—do that?",
+    "defeated": "Well... that escalated quickly.",
+    "introduction": "Welcome to Acornia! Please enjoy your stay.",
+
+    "neutralHello": "Hi friend!",
+    "hateHello": "You're making everybody nervous.",
+
+    "tradeRequest": "Trading sounds fun!",
+    "denounced": "Your behavior is unsafe.",
+    "declaringFriendship": "Best friends forever!",
+
+    "outerColor": [0,180,0],
+    "innerColor": [255,255,0],
+
+    "unique": "TRADITION",
+
+    "cities": [
+        "Acornia","Happy Grove","Nutville","Gigglewood","Forest Junction",
+        "Oak Hollow","Maple Crossing","Sunny Meadow","Green Branch","Woodland Rest",
+        "Pine Ridge","Squirrel Point","Hazelnut Bay","North Acorn","Golden Oak"]
+},
+
+{
+    "name": "Irken Empire",
+    "leaderName": "The Tallest",
+    "adjective": ["Irken"],
+    "startBias": ["Plains"],
+    "preferredVictoryType": "Scientific",
+
+    "startIntroPart1": "The Empire expands endlessly across the stars.",
+    "startIntroPart2": "Conquest, bureaucracy, and snacks shall secure victory.",
+
+    "declaringWar": "Your planet has been selected for acquisition.",
+    "attacked": "This inconvenience will be recorded.",
+    "defeated": "Impossible. We are the Empire.",
+    "introduction": "We are the Tallest. You may begin speaking now.",
+
+    "neutralHello": "Proceed.",
+    "hateHello": "You are wasting our valuable time.",
+
+    "tradeRequest": "The Empire offers a mutually beneficial arrangement.",
+    "denounced": "You are beneath Imperial standards.",
+    "declaringFriendship": "You are now considered moderately acceptable.",
+
+    "outerColor": [255,0,255],
+    "innerColor": [0,0,0],
+
+    "unique": "RATIONALISM",
+
+    "cities": [
+        "Irk","Conventia","Foodcourtia","Sector Zim","Tallest Prime",
+        "Imperial Core","Voot Station","Control Hub","Red Sector","Purple Sector",
+        "Invader Academy","Dockyard Alpha","Fleet Base","Orbital Irk","Expansion Node"]
+},
+
+{
+    "name": "Grox Empire",
+    "leaderName": "The Grox",
+    "adjective": ["Grox"],
+    "startBias": ["Tundra"],
+    "preferredVictoryType": "Domination",
+
+    "startIntroPart1": "Organic weakness has no place in the galaxy.",
+    "startIntroPart2": "The Core belongs to the Grox, and soon everything else will as well.",
+
+    "declaringWar": "Extermination protocols initiated.",
+    "attacked": "Resistance detected. Neutralization authorized.",
+    "defeated": "System failure. Empire terminating.",
+    "introduction": "You stand before the Grox. Explain your presence.",
+
+    "neutralHello": "Your existence has been noted.",
+    "hateHello": "You have become a threat.",
+
+    "tradeRequest": "Limited exchange authorized.",
+    "denounced": "You are incompatible with Grox interests.",
+    "declaringFriendship": "Temporary cooperation accepted.",
+
+    "outerColor": [20,20,20],
+    "innerColor": [255,0,0],
+
+    "unique": "ORDER",
+
+    "cities": [
+        "Groxia","Core Nexus","Machine World","Cyber Bastion","Central Core",
+        "Node Alpha","Node Beta","Node Gamma","War Factory","Drone Complex",
+        "Black Citadel","Assimilation Hub","Sector Prime","Core Fortress","Termination Point"]
 }
 ]
 
