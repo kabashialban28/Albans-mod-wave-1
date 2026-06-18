@@ -790,7 +790,7 @@
     "leaderName": "Luigi",
     "adjective": ["Luigian"],
     "startBias": ["Grassland"],
-    "preferredVictoryType": "Dominaton",
+    "preferredVictoryType": "Domination",
 
     "startIntroPart1": "While Mario governed, Luigi organized.",
     "startIntroPart2": "Now the Syndicate's influence extends into every city and every deal.",
@@ -1244,7 +1244,7 @@
     "leaderName": "The Ducktator",
     "adjective": ["Duck"],
     "startBias": ["Coast"],
-    "preferredVictoryType": "Economic",
+    "preferredVictoryType": "Domination",
 
     "startIntroPart1": "Every city has a pond.",
     "startIntroPart2": "Every pond pays protection money.",
